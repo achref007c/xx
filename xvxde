@@ -1,4 +1,6 @@
 /wp-content/css.php
+/wp-content/plugins/index.php
+/wp-content/themes/hideo/network.php
 /wp-includes/ixr/class_api.php
 /wp-signin.php
 /chosen.php?p=
@@ -24,7 +26,7 @@
 /sym403.php
 /wp-includes/rest-api/endpoints/session-index.php
 /xl2023.php
-/cloud.php
+/cloud.p
 /swm.php
 /wso2.php
 /wp-content/uploads/wpcode/dir/JNmNhoLS.php
